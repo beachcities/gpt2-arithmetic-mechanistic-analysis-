@@ -20,7 +20,7 @@ By directly observing the firing of internal circuits from **the model's input t
 | Causal Circuit Diagram | Probability Trace | Intervention Results |
 |---|---|---|
 | <img src="figures/figure10_causal_circuit.png" width="250"> | <img src="figures/figure1_probability_trace.png" width="250"> | <img src="figures/figure4_intervention_effect.png" width="250"> |
-| **Figure 10:** Visualizing the heuristic pathway and "Alien Logic" flow. | **Figure 1:** The moment the model commits to "6" (Layers 8-9). | **Figure 4:** Proving causality by switching off specific circuits. |
+| **Figure 10:** Visualizing the heuristic pathway and internal mechanism. | **Figure 1:** The moment the model commits to "6" (Layers 8-9). | **Figure 4:** Proving causality by switching off specific circuits. |
 
 More figures are available in the [figures/](figures/) directory.
 
@@ -64,3 +64,13 @@ To reproduce the analysis in a local environment:
 
 ```bash
 pip install -r requirements.txt
+```
+
+3. Run the notebook `notebooks/experiment.ipynb`.
+
+## Acknowledgments
+This analysis originated from an **independent exploration** during the practical exercises (Session 5) of the **Large Language Model Course (Advanced)** at the **Matsuo-Iwasawa Lab, The University of Tokyo**.
+I would like to express my gratitude to the lecturers and teaching assistants for providing the foundational knowledge and educational resources that made this investigation possible.
+
+## License
+MIT License
