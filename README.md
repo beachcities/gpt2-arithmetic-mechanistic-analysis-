@@ -19,7 +19,7 @@ By directly observing the firing of internal circuits from **the model's input t
 
 | Causal Circuit Diagram | Probability Trace | Intervention Results |
 |---|---|---|
-| <img src="figure10_causal_circuit.png" width="250"> | <img src="figure1_probability_trace.png" width="250"> | <img src="figure1_probability_trace.png" width="250"> |
+| <img src="figures/figure10_causal_circuit.png" width="250"> | <img src="figures/figure1_probability_trace.png" width="250"> | <img src="figures/figure1_probability_trace.png" width="250"> |
 | **Figure 10:** Visualizing the heuristic pathway and "Alien Logic" flow. | **Figure 1:** The moment the model commits to "6" (Layers 8-9). | **Figure 4:** Proving causality by switching off specific circuits. |
 
 More figures are available in the [figures/](figures/) directory.
