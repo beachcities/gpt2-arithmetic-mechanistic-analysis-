@@ -6,7 +6,7 @@
 [![Topic](https://img.shields.io/badge/Topic-Mechanistic%20Interpretability-blueviolet)]()
 
 <div align="center">
-  <img src="figures/figure10_casual_circuit.png" alt="Causal Circuit Diagram" width="800"/>
+  <img src="figures/figure10_causal_circuit.png" alt="Causal Circuit Diagram" width="800"/>
 </div>
 
 ## Introduction
