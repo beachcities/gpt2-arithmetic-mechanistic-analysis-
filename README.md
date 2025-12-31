@@ -1,7 +1,7 @@
 # Arithmetic Without Algorithms: Why does GPT-2 Small think "5 + 5 = 6"?
 
 <div align="center">
-  <img src="figures/figure10.png" alt="Causal Circuit Diagram" width="800"/>
+  <img src="figures/figure10_causal_circuit.png" alt="Causal Circuit Diagram" width="800"/>
 </div>
 
 ## Introduction
