@@ -119,8 +119,8 @@ This investigation mechanistically explains the "5+5=6" phenomenon in GPT-2 Smal
 These findings can be applied to **Circuit Steering** engineering—specifically, detecting and suppressing hallucination-inducing features (like Feature #1076) during inference to improve model reliability.
 
 ## Acknowledgments
-This research was conducted as a final project for the **Applied Large Language Model Course** at the **Matsuo-Iwasawa Lab, The University of Tokyo**.
-I would like to express my gratitude to the lecturers and teaching assistants for their valuable feedback and educational resources.
+This analysis originated from an **independent exploration** during the practical exercises (Session 5) of the **Applied Large Language Model Course** at the **Matsuo-Iwasawa Lab, The University of Tokyo**.
+I would like to express my gratitude to the lecturers and teaching assistants for providing the foundational knowledge and educational resources that made this investigation possible.
 ---
 
 ### Appendix A: Minimal Working Example
