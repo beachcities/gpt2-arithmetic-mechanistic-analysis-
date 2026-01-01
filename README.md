@@ -73,4 +73,7 @@ This analysis originated from an **independent exploration** during the practica
 I would like to express my gratitude to the lecturers and teaching assistants for providing the foundational knowledge and educational resources that made this investigation possible.
 
 ## License
-MIT License
+This project is licensed under a dual license strategy:
+
+* **Source Code** (`notebooks/` and scripts): [MIT License](LICENSE)
+* **Reports and Figures** (`reports/` and `figures/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
