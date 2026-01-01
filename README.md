@@ -1,6 +1,7 @@
 # Arithmetic Without Algorithms: Why does GPT-2 Small think "5 + 5 = 6"?
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beachcities/gpt2-arithmetic-mechanistic-analysis/blob/main/notebooks/experiment.ipynb)
+[![DOI](https://zenodo.org/badge/1125893581.svg)](https://doi.org/10.5281/zenodo.18112343)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
